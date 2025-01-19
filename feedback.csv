@@ -1,0 +1,301 @@
+Review Number,Review Text,Sentiment,Rating
+1,The flight attendants were friendly and helpful.,Negative,6
+2,It was a very comfortable and peaceful flight.,Positive,5
+3,The flight was on time and smooth.,Negative,3
+4,"I had an amazing experience, highly recommend.",Neutral,6
+5,The in-flight entertainment was excellent.,Neutral,3
+6,Seats were cramped and uncomfortable.,Negative,5
+7,The seats were very comfortable and spacious.,Positive,8
+8,The seats were very comfortable and spacious.,Negative,2
+9,"The plane was not on time, and communication was poor.",Negative,4
+10,"I had a wonderful time, everything was perfect.",Negative,2
+11,The cabin was very clean and well-maintained.,Neutral,9
+12,"The plane was not on time, and communication was poor.",Positive,3
+13,"The plane was not on time, and communication was poor.",Negative,9
+14,The boarding process was chaotic and unorganized.,Positive,2
+15,It was a very unpleasant experience.,Negative,10
+16,The boarding process was chaotic and unorganized.,Negative,6
+17,It was a very unpleasant experience.,Positive,8
+18,"The flight was smooth, but the food could be better.",Positive,9
+19,"The plane was not on time, and communication was poor.",Neutral,2
+20,The in-flight entertainment was excellent.,Positive,1
+21,"The plane was not on time, and communication was poor.",Neutral,10
+22,The plane was delayed for hours.,Neutral,5
+23,The staff was rude and unprofessional.,Positive,2
+24,The boarding process was chaotic and unorganized.,Neutral,1
+25,"The flight was smooth, but the food could be better.",Negative,6
+26,The flight was on time and smooth.,Positive,4
+27,"I had an amazing experience, highly recommend.",Positive,1
+28,"Average experience, nothing special.",Negative,8
+29,The seats were very comfortable and spacious.,Positive,7
+30,"The flight was fine, but the entertainment options were limited.",Positive,2
+31,The flight attendants were friendly and helpful.,Negative,2
+32,The staff was rude and unprofessional.,Neutral,10
+33,It was a very unpleasant experience.,Negative,10
+34,The plane was delayed for hours.,Neutral,6
+35,I would definitely fly with this airline again.,Neutral,5
+36,The flight attendants were friendly and helpful.,Positive,1
+37,"I had an amazing experience, highly recommend.",Negative,8
+38,"Average experience, nothing special.",Positive,10
+39,"The flight was fine, but the entertainment options were limited.",Negative,10
+40,"I had a wonderful time, everything was perfect.",Neutral,9
+41,The cabin was very clean and well-maintained.,Neutral,3
+42,"The flight was fine, but the entertainment options were limited.",Positive,10
+43,The cabin was very clean and well-maintained.,Neutral,10
+44,The boarding process was chaotic and unorganized.,Neutral,1
+45,The in-flight entertainment was excellent.,Neutral,8
+46,It was a very unpleasant experience.,Positive,3
+47,The flight was on time and smooth.,Neutral,2
+48,Food was bland and unappetizing.,Negative,1
+49,The boarding process was chaotic and unorganized.,Positive,10
+50,The cabin was very clean and well-maintained.,Negative,4
+51,Seats were cramped and uncomfortable.,Neutral,1
+52,Seats were cramped and uncomfortable.,Positive,2
+53,I didn't enjoy the food but the flight was fine.,Negative,10
+54,The staff was rude and unprofessional.,Negative,8
+55,The plane was delayed for hours.,Neutral,2
+56,The seats were very comfortable and spacious.,Negative,1
+57,"The flight was fine, but the entertainment options were limited.",Neutral,9
+58,"The flight was fine, but the entertainment options were limited.",Positive,1
+59,Food was bland and unappetizing.,Positive,3
+60,"Average experience, nothing special.",Positive,5
+61,"The flight was smooth, but the food could be better.",Positive,2
+62,I didn't enjoy the food but the flight was fine.,Negative,4
+63,"I had a wonderful time, everything was perfect.",Negative,7
+64,It was a very comfortable and peaceful flight.,Neutral,6
+65,The flight attendants were friendly and helpful.,Negative,9
+66,"The flight was fine, but the entertainment options were limited.",Neutral,5
+67,"Average experience, nothing special.",Negative,1
+68,The cabin was very clean and well-maintained.,Negative,6
+69,"The flight was smooth, but the food could be better.",Negative,9
+70,"I had a wonderful time, everything was perfect.",Positive,10
+71,The seats were very comfortable and spacious.,Negative,1
+72,The seats were very comfortable and spacious.,Negative,1
+73,I would definitely fly with this airline again.,Neutral,10
+74,The plane was delayed for hours.,Positive,8
+75,I would definitely fly with this airline again.,Neutral,3
+76,I would definitely fly with this airline again.,Positive,3
+77,The plane was delayed for hours.,Negative,1
+78,"Average experience, nothing special.",Positive,3
+79,The plane was delayed for hours.,Negative,2
+80,"Average experience, nothing special.",Neutral,6
+81,The seats were very comfortable and spacious.,Neutral,6
+82,The in-flight entertainment was excellent.,Positive,3
+83,Seats were cramped and uncomfortable.,Negative,9
+84,"The plane was not on time, and communication was poor.",Negative,4
+85,The plane was delayed for hours.,Positive,3
+86,"The flight was smooth, but the food could be better.",Neutral,5
+87,The flight attendants were friendly and helpful.,Negative,1
+88,"The plane was not on time, and communication was poor.",Negative,3
+89,"Average experience, nothing special.",Negative,2
+90,Seats were cramped and uncomfortable.,Neutral,10
+91,The flight was on time and smooth.,Negative,2
+92,"The flight was fine, but the entertainment options were limited.",Negative,7
+93,The staff was rude and unprofessional.,Neutral,9
+94,"The plane was not on time, and communication was poor.",Negative,1
+95,I would definitely fly with this airline again.,Neutral,2
+96,The in-flight entertainment was excellent.,Negative,5
+97,The flight was on time and smooth.,Neutral,6
+98,The staff was rude and unprofessional.,Negative,3
+99,The in-flight entertainment was excellent.,Neutral,1
+100,The cabin was very clean and well-maintained.,Negative,3
+101,"The flight was smooth, but the food could be better.",Positive,2
+102,The flight attendants were friendly and helpful.,Positive,2
+103,I didn't enjoy the food but the flight was fine.,Positive,5
+104,I would definitely fly with this airline again.,Positive,9
+105,Seats were cramped and uncomfortable.,Positive,4
+106,The flight attendants were friendly and helpful.,Negative,3
+107,The in-flight entertainment was excellent.,Positive,2
+108,It was a very unpleasant experience.,Negative,5
+109,I didn't enjoy the food but the flight was fine.,Neutral,10
+110,It was a very comfortable and peaceful flight.,Negative,4
+111,"The flight was smooth, but the food could be better.",Positive,10
+112,The cabin was very clean and well-maintained.,Negative,5
+113,The flight was on time and smooth.,Positive,5
+114,"The plane was not on time, and communication was poor.",Negative,9
+115,The seats were very comfortable and spacious.,Neutral,8
+116,I would definitely fly with this airline again.,Negative,8
+117,I didn't enjoy the food but the flight was fine.,Neutral,7
+118,"The flight was fine, but the entertainment options were limited.",Positive,10
+119,The seats were very comfortable and spacious.,Positive,9
+120,Food was bland and unappetizing.,Positive,3
+121,I didn't enjoy the food but the flight was fine.,Positive,10
+122,The seats were very comfortable and spacious.,Neutral,4
+123,The flight attendants were friendly and helpful.,Negative,9
+124,I would definitely fly with this airline again.,Neutral,8
+125,The in-flight entertainment was excellent.,Positive,7
+126,"The flight was fine, but the entertainment options were limited.",Negative,3
+127,It was a very unpleasant experience.,Positive,2
+128,I didn't enjoy the food but the flight was fine.,Positive,8
+129,I didn't enjoy the food but the flight was fine.,Positive,2
+130,It was a very unpleasant experience.,Neutral,10
+131,The seats were very comfortable and spacious.,Positive,7
+132,It was a very unpleasant experience.,Negative,3
+133,The flight attendants were friendly and helpful.,Positive,3
+134,Food was bland and unappetizing.,Negative,7
+135,The flight was on time and smooth.,Neutral,1
+136,The plane was delayed for hours.,Positive,8
+137,I would definitely fly with this airline again.,Negative,8
+138,The flight was on time and smooth.,Positive,2
+139,Seats were cramped and uncomfortable.,Neutral,4
+140,The seats were very comfortable and spacious.,Negative,3
+141,The staff was rude and unprofessional.,Positive,1
+142,"The flight was smooth, but the food could be better.",Negative,7
+143,It was a very unpleasant experience.,Negative,2
+144,The boarding process was chaotic and unorganized.,Positive,3
+145,"Average experience, nothing special.",Neutral,9
+146,The plane was delayed for hours.,Neutral,6
+147,"I had an amazing experience, highly recommend.",Negative,8
+148,The cabin was very clean and well-maintained.,Positive,1
+149,It was a very unpleasant experience.,Positive,9
+150,"Average experience, nothing special.",Neutral,7
+151,"I had an amazing experience, highly recommend.",Neutral,1
+152,I didn't enjoy the food but the flight was fine.,Negative,6
+153,Food was bland and unappetizing.,Neutral,10
+154,The boarding process was chaotic and unorganized.,Positive,6
+155,I would definitely fly with this airline again.,Neutral,6
+156,Food was bland and unappetizing.,Positive,4
+157,The staff was rude and unprofessional.,Negative,3
+158,It was a very unpleasant experience.,Negative,9
+159,The flight was on time and smooth.,Negative,8
+160,Seats were cramped and uncomfortable.,Positive,1
+161,The in-flight entertainment was excellent.,Positive,8
+162,"I had an amazing experience, highly recommend.",Positive,5
+163,"I had an amazing experience, highly recommend.",Positive,3
+164,"The flight was smooth, but the food could be better.",Neutral,6
+165,"I had an amazing experience, highly recommend.",Negative,6
+166,"The flight was smooth, but the food could be better.",Positive,3
+167,The flight was on time and smooth.,Neutral,4
+168,It was a very comfortable and peaceful flight.,Negative,5
+169,"I had an amazing experience, highly recommend.",Positive,3
+170,"The flight was fine, but the entertainment options were limited.",Negative,1
+171,The flight was on time and smooth.,Neutral,10
+172,The boarding process was chaotic and unorganized.,Neutral,3
+173,"The flight was smooth, but the food could be better.",Negative,5
+174,"The flight was fine, but the entertainment options were limited.",Negative,6
+175,I would definitely fly with this airline again.,Positive,4
+176,Food was bland and unappetizing.,Neutral,4
+177,The flight attendants were friendly and helpful.,Negative,8
+178,It was a very comfortable and peaceful flight.,Positive,5
+179,The staff was rude and unprofessional.,Neutral,6
+180,I didn't enjoy the food but the flight was fine.,Positive,9
+181,Food was bland and unappetizing.,Negative,9
+182,The flight attendants were friendly and helpful.,Negative,9
+183,The boarding process was chaotic and unorganized.,Neutral,6
+184,The in-flight entertainment was excellent.,Negative,9
+185,"Average experience, nothing special.",Neutral,2
+186,"I had a wonderful time, everything was perfect.",Neutral,4
+187,"I had an amazing experience, highly recommend.",Negative,8
+188,"I had a wonderful time, everything was perfect.",Negative,5
+189,The boarding process was chaotic and unorganized.,Positive,4
+190,It was a very comfortable and peaceful flight.,Positive,7
+191,The staff was rude and unprofessional.,Neutral,10
+192,It was a very comfortable and peaceful flight.,Negative,5
+193,I didn't enjoy the food but the flight was fine.,Neutral,1
+194,The flight attendants were friendly and helpful.,Positive,10
+195,Food was bland and unappetizing.,Positive,7
+196,I would definitely fly with this airline again.,Positive,4
+197,I didn't enjoy the food but the flight was fine.,Neutral,4
+198,The plane was delayed for hours.,Negative,3
+199,The plane was delayed for hours.,Positive,5
+200,The staff was rude and unprofessional.,Positive,6
+201,"The plane was not on time, and communication was poor.",Positive,10
+202,The flight was on time and smooth.,Neutral,4
+203,The flight was on time and smooth.,Negative,4
+204,The seats were very comfortable and spacious.,Positive,2
+205,The staff was rude and unprofessional.,Neutral,3
+206,"The plane was not on time, and communication was poor.",Negative,2
+207,It was a very unpleasant experience.,Negative,10
+208,I didn't enjoy the food but the flight was fine.,Positive,1
+209,Seats were cramped and uncomfortable.,Negative,6
+210,The flight attendants were friendly and helpful.,Positive,9
+211,It was a very unpleasant experience.,Negative,7
+212,The cabin was very clean and well-maintained.,Negative,7
+213,The seats were very comfortable and spacious.,Negative,5
+214,"The flight was fine, but the entertainment options were limited.",Neutral,4
+215,The plane was delayed for hours.,Negative,10
+216,It was a very unpleasant experience.,Neutral,9
+217,The flight attendants were friendly and helpful.,Positive,8
+218,The flight attendants were friendly and helpful.,Neutral,6
+219,The in-flight entertainment was excellent.,Positive,1
+220,I would definitely fly with this airline again.,Positive,9
+221,I would definitely fly with this airline again.,Neutral,2
+222,"I had a wonderful time, everything was perfect.",Positive,1
+223,"The plane was not on time, and communication was poor.",Negative,5
+224,Seats were cramped and uncomfortable.,Positive,8
+225,The seats were very comfortable and spacious.,Negative,9
+226,The cabin was very clean and well-maintained.,Neutral,9
+227,The seats were very comfortable and spacious.,Neutral,10
+228,The boarding process was chaotic and unorganized.,Positive,9
+229,The flight was on time and smooth.,Negative,4
+230,"The flight was smooth, but the food could be better.",Positive,1
+231,The plane was delayed for hours.,Negative,8
+232,Food was bland and unappetizing.,Neutral,5
+233,I would definitely fly with this airline again.,Negative,3
+234,The seats were very comfortable and spacious.,Neutral,5
+235,I didn't enjoy the food but the flight was fine.,Negative,6
+236,I would definitely fly with this airline again.,Negative,9
+237,The in-flight entertainment was excellent.,Negative,5
+238,The cabin was very clean and well-maintained.,Negative,7
+239,"The plane was not on time, and communication was poor.",Negative,9
+240,"I had an amazing experience, highly recommend.",Neutral,6
+241,The flight was on time and smooth.,Negative,10
+242,The flight attendants were friendly and helpful.,Positive,6
+243,"The flight was smooth, but the food could be better.",Positive,8
+244,The staff was rude and unprofessional.,Neutral,1
+245,The staff was rude and unprofessional.,Negative,4
+246,Seats were cramped and uncomfortable.,Positive,9
+247,"I had a wonderful time, everything was perfect.",Neutral,5
+248,"Average experience, nothing special.",Neutral,5
+249,"I had a wonderful time, everything was perfect.",Neutral,3
+250,The plane was delayed for hours.,Negative,10
+251,The plane was delayed for hours.,Negative,6
+252,The plane was delayed for hours.,Neutral,2
+253,"The plane was not on time, and communication was poor.",Negative,10
+254,It was a very unpleasant experience.,Positive,9
+255,I would definitely fly with this airline again.,Positive,4
+256,The in-flight entertainment was excellent.,Negative,9
+257,"I had an amazing experience, highly recommend.",Negative,4
+258,I would definitely fly with this airline again.,Negative,10
+259,"I had a wonderful time, everything was perfect.",Positive,5
+260,"The plane was not on time, and communication was poor.",Neutral,5
+261,The boarding process was chaotic and unorganized.,Negative,9
+262,Seats were cramped and uncomfortable.,Neutral,6
+263,The in-flight entertainment was excellent.,Negative,10
+264,The boarding process was chaotic and unorganized.,Neutral,10
+265,Food was bland and unappetizing.,Negative,5
+266,"The plane was not on time, and communication was poor.",Negative,4
+267,I would definitely fly with this airline again.,Positive,1
+268,The plane was delayed for hours.,Negative,4
+269,The seats were very comfortable and spacious.,Neutral,5
+270,"The flight was fine, but the entertainment options were limited.",Negative,8
+271,"I had a wonderful time, everything was perfect.",Negative,7
+272,The in-flight entertainment was excellent.,Positive,3
+273,The staff was rude and unprofessional.,Neutral,9
+274,The cabin was very clean and well-maintained.,Neutral,10
+275,The in-flight entertainment was excellent.,Negative,7
+276,The flight attendants were friendly and helpful.,Negative,10
+277,Seats were cramped and uncomfortable.,Neutral,7
+278,Food was bland and unappetizing.,Negative,4
+279,The boarding process was chaotic and unorganized.,Neutral,1
+280,The staff was rude and unprofessional.,Positive,8
+281,"I had a wonderful time, everything was perfect.",Positive,7
+282,The boarding process was chaotic and unorganized.,Neutral,3
+283,It was a very unpleasant experience.,Negative,5
+284,"I had a wonderful time, everything was perfect.",Negative,6
+285,It was a very unpleasant experience.,Negative,4
+286,The flight attendants were friendly and helpful.,Neutral,7
+287,"I had a wonderful time, everything was perfect.",Neutral,2
+288,Seats were cramped and uncomfortable.,Negative,2
+289,"The flight was fine, but the entertainment options were limited.",Neutral,10
+290,"I had a wonderful time, everything was perfect.",Negative,1
+291,"Average experience, nothing special.",Positive,3
+292,The seats were very comfortable and spacious.,Negative,6
+293,"I had a wonderful time, everything was perfect.",Negative,10
+294,The seats were very comfortable and spacious.,Neutral,6
+295,The flight was on time and smooth.,Neutral,7
+296,The staff was rude and unprofessional.,Negative,9
+297,It was a very comfortable and peaceful flight.,Neutral,1
+298,The flight was on time and smooth.,Negative,6
+299,I would definitely fly with this airline again.,Neutral,5
+300,"I had an amazing experience, highly recommend.",Positive,4
